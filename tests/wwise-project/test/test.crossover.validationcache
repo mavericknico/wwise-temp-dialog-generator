@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Virtual Acoustics\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Triggers\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\test.wproj" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Switches\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\States\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\SoundBanks\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Queries\Factory Queries.wwu" DateLow="1648943348" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Queries\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Presets\Factory Spatial Audio.wwu" DateLow="1648943348" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Presets\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Modulators\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Mixing Sessions\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Metadata\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Game Parameters\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Events\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Effects\Factory Effects.wwu" DateLow="1648943348" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Effects\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1648943348" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Conversion Settings\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Control Surface Sessions\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Audio Devices\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Attenuations\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Github\wwise-temp-dialog-generator\tests\wwise-project\test\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1649134838" DateHigh="0"/>
+</ValidationCache>
